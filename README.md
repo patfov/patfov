@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Pat Fonseca, Jr Data Scientist and Business Analyst.
+
 <!--
 **patfov/patfov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
