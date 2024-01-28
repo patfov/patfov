@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pat Fonseca, Jr Data Scientist and Business Analyst, specialized in big data analytics and machine learning on Google Cloud.
+I'm Pat Fonseca, AI Engineer (specializing in Natural Language Understanding and LLMs), and GenAI Business Analyst, specialized in AI on Azure and Google Cloud.
 
 <!--
 **patfov/patfov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
