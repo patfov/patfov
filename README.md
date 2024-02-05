@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pat Fonseca, AI Engineer (specializing in NLU and LLMs) and Cognitive Scientist, specialized in AI on Azure and Google Cloud.
+I'm Pat Fonseca, AI Engineer (specializing in NLU and LLMs), specialized in AI on Google Cloud.
 
 <!--
 **patfov/patfov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
