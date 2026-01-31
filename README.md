@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pat Fonseca, AI Engineer and IT Business Analyst specializing in AI on Azure and Google Cloud.
+I'm Pat Fonseca, AI Engineer and IT Business Analyst specialized in AI & Data on Google Cloud.
 
 <!--
 **patfov/patfov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
